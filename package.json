@@ -1,0 +1,26 @@
+{
+  "name": "webrtc_test",
+  "version": "0.1.0",
+  "description": "A test repo to test the webrtc api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bshankar/webrtc_test.git"
+  },
+  "keywords": [
+    "webrtc"
+  ],
+  "author": "E Bhavani Shankar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bshankar/webrtc_test/issues"
+  },
+  "homepage": "https://github.com/bshankar/webrtc_test#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
